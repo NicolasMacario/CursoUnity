@@ -1,0 +1,10 @@
+﻿string MGoblins = "Derrote 5 goblins";
+string MFrutos = "Colete 10 frutos para crar uma poção de cura";
+string MJoias = "Colete 3 joias para criar uma arma Especial";
+string MOgrosPantano = "Derrote 25 ogros do Pântano";
+string MBandeirasInimigas = "Destrua ou conquiste 5 bandeiras do clã inimigo";
+Console.WriteLine($"1-{MGoblins}");
+Console.WriteLine($"2-{MFrutos}");
+Console.WriteLine($"3-{MJoias}");
+Console.WriteLine($"4-{MOgrosPantano}");
+Console.WriteLine($"5-{MBandeirasInimigas}");

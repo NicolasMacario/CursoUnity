@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02-variables\bin\Debug\net10.0\02-variables.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02-variables\bin\Debug\net10.0\02-variables.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02-variables\bin\Debug\net10.0\02-variables.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02-variables\bin\Debug\net10.0\02-variables.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02-variables\bin\Debug\net10.0\02-variables.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02-variables\obj\Debug\net10.0\02-variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02-variables\obj\Debug\net10.0\02-variables.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02-variables\obj\Debug\net10.0\02-variables.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02-variables\obj\Debug\net10.0\02-variables.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02-variables\obj\Debug\net10.0\02-variables.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02-variables\obj\Debug\net10.0\refint\02-variables.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02-variables\obj\Debug\net10.0\02-variables.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02-variables\obj\Debug\net10.0\02-variables.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02-variables\obj\Debug\net10.0\ref\02-variables.dll

@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02b-Equacao\bin\Debug\net10.0\02b-Equacao.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02b-Equacao\bin\Debug\net10.0\02b-Equacao.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02b-Equacao\bin\Debug\net10.0\02b-Equacao.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02b-Equacao\bin\Debug\net10.0\02b-Equacao.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02b-Equacao\bin\Debug\net10.0\02b-Equacao.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02b-Equacao\obj\Debug\net10.0\02b-Equacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02b-Equacao\obj\Debug\net10.0\02b-Equacao.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02b-Equacao\obj\Debug\net10.0\02b-Equacao.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02b-Equacao\obj\Debug\net10.0\02b-Equacao.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02b-Equacao\obj\Debug\net10.0\02b-Equacao.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02b-Equacao\obj\Debug\net10.0\refint\02b-Equacao.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02b-Equacao\obj\Debug\net10.0\02b-Equacao.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02b-Equacao\obj\Debug\net10.0\02b-Equacao.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02b-Equacao\obj\Debug\net10.0\ref\02b-Equacao.dll

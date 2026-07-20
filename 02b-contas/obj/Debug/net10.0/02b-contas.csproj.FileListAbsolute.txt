@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02b-contas\bin\Debug\net10.0\02b-contas.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02b-contas\bin\Debug\net10.0\02b-contas.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02b-contas\bin\Debug\net10.0\02b-contas.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02b-contas\bin\Debug\net10.0\02b-contas.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02b-contas\bin\Debug\net10.0\02b-contas.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02b-contas\obj\Debug\net10.0\02b-contas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02b-contas\obj\Debug\net10.0\02b-contas.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02b-contas\obj\Debug\net10.0\02b-contas.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02b-contas\obj\Debug\net10.0\02b-contas.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02b-contas\obj\Debug\net10.0\02b-contas.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02b-contas\obj\Debug\net10.0\refint\02b-contas.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02b-contas\obj\Debug\net10.0\02b-contas.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02b-contas\obj\Debug\net10.0\02b-contas.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\02b-contas\obj\Debug\net10.0\ref\02b-contas.dll

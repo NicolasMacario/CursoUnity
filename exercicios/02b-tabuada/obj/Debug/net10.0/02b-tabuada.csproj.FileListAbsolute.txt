@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02b-tabuada\bin\Debug\net10.0\02b-tabuada.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02b-tabuada\bin\Debug\net10.0\02b-tabuada.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02b-tabuada\bin\Debug\net10.0\02b-tabuada.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02b-tabuada\bin\Debug\net10.0\02b-tabuada.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02b-tabuada\bin\Debug\net10.0\02b-tabuada.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02b-tabuada\obj\Debug\net10.0\02b-tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02b-tabuada\obj\Debug\net10.0\02b-tabuada.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02b-tabuada\obj\Debug\net10.0\02b-tabuada.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02b-tabuada\obj\Debug\net10.0\02b-tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02b-tabuada\obj\Debug\net10.0\02b-tabuada.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02b-tabuada\obj\Debug\net10.0\refint\02b-tabuada.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02b-tabuada\obj\Debug\net10.0\02b-tabuada.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02b-tabuada\obj\Debug\net10.0\02b-tabuada.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02b-tabuada\obj\Debug\net10.0\ref\02b-tabuada.dll

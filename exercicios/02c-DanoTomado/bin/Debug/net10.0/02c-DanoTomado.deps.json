@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "02c-DanoTomado/1.0.0": {
+        "runtime": {
+          "02c-DanoTomado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02c-DanoTomado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

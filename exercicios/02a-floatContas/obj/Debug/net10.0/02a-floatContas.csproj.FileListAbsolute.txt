@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02a-floatContas\bin\Debug\net10.0\02a-floatContas.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02a-floatContas\bin\Debug\net10.0\02a-floatContas.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02a-floatContas\bin\Debug\net10.0\02a-floatContas.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02a-floatContas\bin\Debug\net10.0\02a-floatContas.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02a-floatContas\bin\Debug\net10.0\02a-floatContas.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02a-floatContas\obj\Debug\net10.0\02a-floatContas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02a-floatContas\obj\Debug\net10.0\02a-floatContas.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02a-floatContas\obj\Debug\net10.0\02a-floatContas.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02a-floatContas\obj\Debug\net10.0\02a-floatContas.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02a-floatContas\obj\Debug\net10.0\02a-floatContas.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02a-floatContas\obj\Debug\net10.0\refint\02a-floatContas.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02a-floatContas\obj\Debug\net10.0\02a-floatContas.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02a-floatContas\obj\Debug\net10.0\02a-floatContas.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02a-floatContas\obj\Debug\net10.0\ref\02a-floatContas.dll

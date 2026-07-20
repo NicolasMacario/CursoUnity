@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03a-DoisParagrafos\bin\Debug\net10.0\03a-DoisParagrafos.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03a-DoisParagrafos\bin\Debug\net10.0\03a-DoisParagrafos.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03a-DoisParagrafos\bin\Debug\net10.0\03a-DoisParagrafos.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03a-DoisParagrafos\bin\Debug\net10.0\03a-DoisParagrafos.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03a-DoisParagrafos\bin\Debug\net10.0\03a-DoisParagrafos.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03a-DoisParagrafos\obj\Debug\net10.0\03a-DoisParagrafos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03a-DoisParagrafos\obj\Debug\net10.0\03a-DoisParagrafos.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03a-DoisParagrafos\obj\Debug\net10.0\03a-DoisParagrafos.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03a-DoisParagrafos\obj\Debug\net10.0\03a-DoisParagrafos.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03a-DoisParagrafos\obj\Debug\net10.0\03a-DoisParagrafos.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03a-DoisParagrafos\obj\Debug\net10.0\refint\03a-DoisParagrafos.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03a-DoisParagrafos\obj\Debug\net10.0\03a-DoisParagrafos.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03a-DoisParagrafos\obj\Debug\net10.0\03a-DoisParagrafos.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03a-DoisParagrafos\obj\Debug\net10.0\ref\03a-DoisParagrafos.dll

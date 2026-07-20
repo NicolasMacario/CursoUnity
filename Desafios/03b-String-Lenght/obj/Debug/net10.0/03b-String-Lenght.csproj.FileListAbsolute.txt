@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03b-String-Lenght\bin\Debug\net10.0\03b-String-Lenght.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03b-String-Lenght\bin\Debug\net10.0\03b-String-Lenght.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03b-String-Lenght\bin\Debug\net10.0\03b-String-Lenght.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03b-String-Lenght\bin\Debug\net10.0\03b-String-Lenght.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03b-String-Lenght\bin\Debug\net10.0\03b-String-Lenght.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03b-String-Lenght\obj\Debug\net10.0\03b-String-Lenght.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03b-String-Lenght\obj\Debug\net10.0\03b-String-Lenght.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03b-String-Lenght\obj\Debug\net10.0\03b-String-Lenght.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03b-String-Lenght\obj\Debug\net10.0\03b-String-Lenght.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03b-String-Lenght\obj\Debug\net10.0\03b-String-Lenght.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03b-String-Lenght\obj\Debug\net10.0\refint\03b-String-Lenght.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03b-String-Lenght\obj\Debug\net10.0\03b-String-Lenght.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03b-String-Lenght\obj\Debug\net10.0\03b-String-Lenght.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\03b-String-Lenght\obj\Debug\net10.0\ref\03b-String-Lenght.dll

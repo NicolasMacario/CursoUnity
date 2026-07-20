@@ -1,0 +1,22 @@
+<Solution>
+  <Folder Name="/Desafios/">
+    <Project Path="Desafios/02a-RestoDivisao/02a-RestoDivisao.csproj" />
+    <Project Path="Desafios/02b-Equacao/02b-Equacao.csproj" />
+    <Project Path="Desafios/03a-DoisParagrafos/03a-DoisParagrafos.csproj" />
+    <Project Path="Desafios/03b-String-Lenght/03b-String-Lenght.csproj" />
+  </Folder>
+  <Folder Name="/exercicios/">
+    <Project Path="exercicios/01a-brush/01a-brush.csproj" />
+    <Project Path="exercicios/02a-floatContas/02a-floatContas.csproj" />
+    <Project Path="exercicios/02c-DanoTomado/02c-DanoTomado.csproj" />
+    <Project Path="exercicios/02d-PersonagemRPG/02d-PersonagemRPG.csproj" />
+    <Project Path="exercicios/03a-Missoes/03a-Missoes.csproj" />
+  </Folder>
+  <Folder Name="/exercicios/02b-Tabuada/">
+    <Project Path="exercicios/02b-Tabuada/02b-tabuada.csproj" />
+  </Folder>
+  <Project Path="01-hello/01-hello.csproj" />
+  <Project Path="02-variables/02-variables.csproj" />
+  <Project Path="02b-contas/02b-contas.csproj" />
+  <Project Path="03-Strings/03-Strings.csproj" />
+</Solution>

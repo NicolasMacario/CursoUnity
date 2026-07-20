@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02c-DanoTomado\bin\Debug\net10.0\02c-DanoTomado.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02c-DanoTomado\bin\Debug\net10.0\02c-DanoTomado.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02c-DanoTomado\bin\Debug\net10.0\02c-DanoTomado.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02c-DanoTomado\bin\Debug\net10.0\02c-DanoTomado.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02c-DanoTomado\bin\Debug\net10.0\02c-DanoTomado.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02c-DanoTomado\obj\Debug\net10.0\02c-DanoTomado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02c-DanoTomado\obj\Debug\net10.0\02c-DanoTomado.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02c-DanoTomado\obj\Debug\net10.0\02c-DanoTomado.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02c-DanoTomado\obj\Debug\net10.0\02c-DanoTomado.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02c-DanoTomado\obj\Debug\net10.0\02c-DanoTomado.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02c-DanoTomado\obj\Debug\net10.0\refint\02c-DanoTomado.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02c-DanoTomado\obj\Debug\net10.0\02c-DanoTomado.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02c-DanoTomado\obj\Debug\net10.0\02c-DanoTomado.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02c-DanoTomado\obj\Debug\net10.0\ref\02c-DanoTomado.dll

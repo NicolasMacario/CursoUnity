@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02a-RestoDivisao\bin\Debug\net10.0\02a-RestoDivisao.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02a-RestoDivisao\bin\Debug\net10.0\02a-RestoDivisao.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02a-RestoDivisao\bin\Debug\net10.0\02a-RestoDivisao.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02a-RestoDivisao\bin\Debug\net10.0\02a-RestoDivisao.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02a-RestoDivisao\bin\Debug\net10.0\02a-RestoDivisao.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02a-RestoDivisao\obj\Debug\net10.0\02a-RestoDivisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02a-RestoDivisao\obj\Debug\net10.0\02a-RestoDivisao.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02a-RestoDivisao\obj\Debug\net10.0\02a-RestoDivisao.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02a-RestoDivisao\obj\Debug\net10.0\02a-RestoDivisao.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02a-RestoDivisao\obj\Debug\net10.0\02a-RestoDivisao.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02a-RestoDivisao\obj\Debug\net10.0\refint\02a-RestoDivisao.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02a-RestoDivisao\obj\Debug\net10.0\02a-RestoDivisao.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02a-RestoDivisao\obj\Debug\net10.0\02a-RestoDivisao.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\02a-RestoDivisao\obj\Debug\net10.0\ref\02a-RestoDivisao.dll

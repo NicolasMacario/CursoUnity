@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\03a-Missoes\bin\Debug\net10.0\03a-Missoes.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\03a-Missoes\bin\Debug\net10.0\03a-Missoes.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\03a-Missoes\bin\Debug\net10.0\03a-Missoes.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\03a-Missoes\bin\Debug\net10.0\03a-Missoes.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\03a-Missoes\bin\Debug\net10.0\03a-Missoes.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\03a-Missoes\obj\Debug\net10.0\03a-Missoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\03a-Missoes\obj\Debug\net10.0\03a-Missoes.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\03a-Missoes\obj\Debug\net10.0\03a-Missoes.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\03a-Missoes\obj\Debug\net10.0\03a-Missoes.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\03a-Missoes\obj\Debug\net10.0\03a-Missoes.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\03a-Missoes\obj\Debug\net10.0\refint\03a-Missoes.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\03a-Missoes\obj\Debug\net10.0\03a-Missoes.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\03a-Missoes\obj\Debug\net10.0\03a-Missoes.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\03a-Missoes\obj\Debug\net10.0\ref\03a-Missoes.dll

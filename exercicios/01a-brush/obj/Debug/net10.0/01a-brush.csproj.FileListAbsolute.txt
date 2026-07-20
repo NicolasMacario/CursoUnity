@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\01a-brush\bin\Debug\net10.0\01a-brush.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\01a-brush\bin\Debug\net10.0\01a-brush.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\01a-brush\bin\Debug\net10.0\01a-brush.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\01a-brush\bin\Debug\net10.0\01a-brush.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\01a-brush\bin\Debug\net10.0\01a-brush.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\01a-brush\obj\Debug\net10.0\01a-brush.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\01a-brush\obj\Debug\net10.0\01a-brush.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\01a-brush\obj\Debug\net10.0\01a-brush.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\01a-brush\obj\Debug\net10.0\01a-brush.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\01a-brush\obj\Debug\net10.0\01a-brush.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\01a-brush\obj\Debug\net10.0\refint\01a-brush.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\01a-brush\obj\Debug\net10.0\01a-brush.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\01a-brush\obj\Debug\net10.0\01a-brush.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\01a-brush\obj\Debug\net10.0\ref\01a-brush.dll

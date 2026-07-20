@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02d-PersonagemRPG\bin\Debug\net10.0\02d-PersonagemRPG.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02d-PersonagemRPG\bin\Debug\net10.0\02d-PersonagemRPG.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02d-PersonagemRPG\bin\Debug\net10.0\02d-PersonagemRPG.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02d-PersonagemRPG\bin\Debug\net10.0\02d-PersonagemRPG.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02d-PersonagemRPG\bin\Debug\net10.0\02d-PersonagemRPG.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02d-PersonagemRPG\obj\Debug\net10.0\02d-PersonagemRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02d-PersonagemRPG\obj\Debug\net10.0\02d-PersonagemRPG.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02d-PersonagemRPG\obj\Debug\net10.0\02d-PersonagemRPG.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02d-PersonagemRPG\obj\Debug\net10.0\02d-PersonagemRPG.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02d-PersonagemRPG\obj\Debug\net10.0\02d-PersonagemRPG.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02d-PersonagemRPG\obj\Debug\net10.0\refint\02d-PersonagemRPG.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02d-PersonagemRPG\obj\Debug\net10.0\02d-PersonagemRPG.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02d-PersonagemRPG\obj\Debug\net10.0\02d-PersonagemRPG.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\02d-PersonagemRPG\obj\Debug\net10.0\ref\02d-PersonagemRPG.dll

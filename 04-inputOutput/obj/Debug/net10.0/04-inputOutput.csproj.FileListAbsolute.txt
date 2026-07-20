@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\04-inputOutput\bin\Debug\net10.0\04-inputOutput.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\04-inputOutput\bin\Debug\net10.0\04-inputOutput.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\04-inputOutput\bin\Debug\net10.0\04-inputOutput.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\04-inputOutput\bin\Debug\net10.0\04-inputOutput.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\04-inputOutput\bin\Debug\net10.0\04-inputOutput.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\04-inputOutput\obj\Debug\net10.0\04-inputOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\04-inputOutput\obj\Debug\net10.0\04-inputOutput.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\04-inputOutput\obj\Debug\net10.0\04-inputOutput.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\04-inputOutput\obj\Debug\net10.0\04-inputOutput.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\04-inputOutput\obj\Debug\net10.0\04-inputOutput.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\04-inputOutput\obj\Debug\net10.0\04-inputOutput.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\04-inputOutput\obj\Debug\net10.0\refint\04-inputOutput.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\04-inputOutput\obj\Debug\net10.0\04-inputOutput.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\04-inputOutput\obj\Debug\net10.0\04-inputOutput.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\04-inputOutput\obj\Debug\net10.0\ref\04-inputOutput.dll

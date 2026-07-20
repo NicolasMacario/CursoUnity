@@ -11,12 +11,18 @@
     <Project Path="exercicios/02c-DanoTomado/02c-DanoTomado.csproj" />
     <Project Path="exercicios/02d-PersonagemRPG/02d-PersonagemRPG.csproj" />
     <Project Path="exercicios/03a-Missoes/03a-Missoes.csproj" />
+    <Project Path="exercicios/04b-Porcentagem/04b-Porcentagem.csproj" />
+    <Project Path="exercicios/04c-Pontuacao/04c-Pontuacao.csproj" />
   </Folder>
   <Folder Name="/exercicios/02b-Tabuada/">
     <Project Path="exercicios/02b-Tabuada/02b-tabuada.csproj" />
+  </Folder>
+  <Folder Name="/exercicios/04a-calculadora/">
+    <Project Path="exercicios/04a-calculadora/04a-Calculadora.csproj" />
   </Folder>
   <Project Path="01-hello/01-hello.csproj" />
   <Project Path="02-variables/02-variables.csproj" />
   <Project Path="02b-contas/02b-contas.csproj" />
   <Project Path="03-Strings/03-Strings.csproj" />
+  <Project Path="04-inputOutput/04-inputOutput.csproj" />
 </Solution>

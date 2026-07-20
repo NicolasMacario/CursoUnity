@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04c-Pontuacao\bin\Debug\net10.0\04c-Pontuacao.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04c-Pontuacao\bin\Debug\net10.0\04c-Pontuacao.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04c-Pontuacao\bin\Debug\net10.0\04c-Pontuacao.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04c-Pontuacao\bin\Debug\net10.0\04c-Pontuacao.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04c-Pontuacao\bin\Debug\net10.0\04c-Pontuacao.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04c-Pontuacao\obj\Debug\net10.0\04c-Pontuacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04c-Pontuacao\obj\Debug\net10.0\04c-Pontuacao.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04c-Pontuacao\obj\Debug\net10.0\04c-Pontuacao.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04c-Pontuacao\obj\Debug\net10.0\04c-Pontuacao.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04c-Pontuacao\obj\Debug\net10.0\04c-Pontuacao.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04c-Pontuacao\obj\Debug\net10.0\04c-Pontuacao.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04c-Pontuacao\obj\Debug\net10.0\refint\04c-Pontuacao.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04c-Pontuacao\obj\Debug\net10.0\04c-Pontuacao.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04c-Pontuacao\obj\Debug\net10.0\04c-Pontuacao.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04c-Pontuacao\obj\Debug\net10.0\ref\04c-Pontuacao.dll

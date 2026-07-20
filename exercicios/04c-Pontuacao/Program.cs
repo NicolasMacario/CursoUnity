@@ -1,0 +1,11 @@
+﻿Console.WriteLine("Digite a primeira pontuação: ");
+int pont1 = int.Parse(Console.ReadLine());
+Console.WriteLine("Digite a segunda pontuação: ");
+int pont2 = int.Parse(Console.ReadLine());
+Console.WriteLine("Digite a terceira pontuação: ");
+int pont3 = int.Parse(Console.ReadLine());
+Console.WriteLine("Digite a quarta pontuação: ");
+int pont4 = int.Parse(Console.ReadLine());
+Console.WriteLine("Digite a quinta pontuação: ");
+int pont5 = int.Parse(Console.ReadLine());
+Console.WriteLine($"você ficou a seguinte média de pontuações: {(pont1 + pont2 +pont3 + pont4 + pont5)/5}");

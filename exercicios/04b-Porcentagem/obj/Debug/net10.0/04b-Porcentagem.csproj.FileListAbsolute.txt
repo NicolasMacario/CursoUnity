@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04b-Porcentagem\bin\Debug\net10.0\04b-Porcentagem.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04b-Porcentagem\bin\Debug\net10.0\04b-Porcentagem.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04b-Porcentagem\bin\Debug\net10.0\04b-Porcentagem.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04b-Porcentagem\bin\Debug\net10.0\04b-Porcentagem.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04b-Porcentagem\bin\Debug\net10.0\04b-Porcentagem.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04b-Porcentagem\obj\Debug\net10.0\04b-Porcentagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04b-Porcentagem\obj\Debug\net10.0\04b-Porcentagem.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04b-Porcentagem\obj\Debug\net10.0\04b-Porcentagem.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04b-Porcentagem\obj\Debug\net10.0\04b-Porcentagem.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04b-Porcentagem\obj\Debug\net10.0\04b-Porcentagem.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04b-Porcentagem\obj\Debug\net10.0\04b-Porcentagem.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04b-Porcentagem\obj\Debug\net10.0\refint\04b-Porcentagem.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04b-Porcentagem\obj\Debug\net10.0\04b-Porcentagem.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04b-Porcentagem\obj\Debug\net10.0\04b-Porcentagem.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04b-Porcentagem\obj\Debug\net10.0\ref\04b-Porcentagem.dll

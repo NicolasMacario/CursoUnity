@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04d-MinutosFaltantes\bin\Debug\net10.0\04d-MinutosFaltantes.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04d-MinutosFaltantes\bin\Debug\net10.0\04d-MinutosFaltantes.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04d-MinutosFaltantes\bin\Debug\net10.0\04d-MinutosFaltantes.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04d-MinutosFaltantes\bin\Debug\net10.0\04d-MinutosFaltantes.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04d-MinutosFaltantes\bin\Debug\net10.0\04d-MinutosFaltantes.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04d-MinutosFaltantes\obj\Debug\net10.0\04d-MinutosFaltantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04d-MinutosFaltantes\obj\Debug\net10.0\04d-MinutosFaltantes.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04d-MinutosFaltantes\obj\Debug\net10.0\04d-MinutosFaltantes.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04d-MinutosFaltantes\obj\Debug\net10.0\04d-MinutosFaltantes.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04d-MinutosFaltantes\obj\Debug\net10.0\04d-MinutosFaltantes.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04d-MinutosFaltantes\obj\Debug\net10.0\04d-MinutosFaltantes.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04d-MinutosFaltantes\obj\Debug\net10.0\refint\04d-MinutosFaltantes.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04d-MinutosFaltantes\obj\Debug\net10.0\04d-MinutosFaltantes.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04d-MinutosFaltantes\obj\Debug\net10.0\04d-MinutosFaltantes.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\04d-MinutosFaltantes\obj\Debug\net10.0\ref\04d-MinutosFaltantes.dll

@@ -4,6 +4,8 @@
     <Project Path="Desafios/02b-Equacao/02b-Equacao.csproj" />
     <Project Path="Desafios/03a-DoisParagrafos/03a-DoisParagrafos.csproj" />
     <Project Path="Desafios/03b-String-Lenght/03b-String-Lenght.csproj" />
+    <Project Path="Desafios/05a-ImparPar/05a-ImparPar.csproj" />
+    <Project Path="Desafios/5b-JogoNovel/5b-JogoNovel.csproj" />
   </Folder>
   <Folder Name="/exercicios/">
     <Project Path="exercicios/01a-brush/01a-brush.csproj" />
@@ -13,6 +15,11 @@
     <Project Path="exercicios/03a-Missoes/03a-Missoes.csproj" />
     <Project Path="exercicios/04b-Porcentagem/04b-Porcentagem.csproj" />
     <Project Path="exercicios/04c-Pontuacao/04c-Pontuacao.csproj" />
+    <Project Path="exercicios/04d-MinutosFaltantes/04d-MinutosFaltantes.csproj" />
+    <Project Path="exercicios/05a-NomeIdade/05a-NomeIdade.csproj" />
+    <Project Path="exercicios/05b-DoisNumeros/05b-DoisNumeros.csproj" />
+    <Project Path="exercicios/05c-Calculadora/05c-Calculadora.csproj" />
+    <Project Path="exercicios/05d-CampeonatoBasquete/05d-CampeonatoBasquete.csproj" />
   </Folder>
   <Folder Name="/exercicios/02b-Tabuada/">
     <Project Path="exercicios/02b-Tabuada/02b-tabuada.csproj" />
@@ -25,4 +32,5 @@
   <Project Path="02b-contas/02b-contas.csproj" />
   <Project Path="03-Strings/03-Strings.csproj" />
   <Project Path="04-inputOutput/04-inputOutput.csproj" />
+  <Project Path="05-FluxoDeControle/05-FluxoDeControle.csproj" />
 </Solution>

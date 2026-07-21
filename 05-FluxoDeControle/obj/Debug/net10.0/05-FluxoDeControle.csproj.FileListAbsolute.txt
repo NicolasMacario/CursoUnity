@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\05-FluxoDeControle\bin\Debug\net10.0\05-FluxoDeControle.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\05-FluxoDeControle\bin\Debug\net10.0\05-FluxoDeControle.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\05-FluxoDeControle\bin\Debug\net10.0\05-FluxoDeControle.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\05-FluxoDeControle\bin\Debug\net10.0\05-FluxoDeControle.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\05-FluxoDeControle\bin\Debug\net10.0\05-FluxoDeControle.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\05-FluxoDeControle\obj\Debug\net10.0\05-FluxoDeControle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\05-FluxoDeControle\obj\Debug\net10.0\05-FluxoDeControle.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\05-FluxoDeControle\obj\Debug\net10.0\05-FluxoDeControle.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\05-FluxoDeControle\obj\Debug\net10.0\05-FluxoDeControle.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\05-FluxoDeControle\obj\Debug\net10.0\05-FluxoDeControle.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\05-FluxoDeControle\obj\Debug\net10.0\05-FluxoDeControle.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\05-FluxoDeControle\obj\Debug\net10.0\refint\05-FluxoDeControle.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\05-FluxoDeControle\obj\Debug\net10.0\05-FluxoDeControle.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\05-FluxoDeControle\obj\Debug\net10.0\05-FluxoDeControle.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\05-FluxoDeControle\obj\Debug\net10.0\ref\05-FluxoDeControle.dll

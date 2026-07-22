@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05b-DoisNumeros\bin\Debug\net10.0\05b-DoisNumeros.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05b-DoisNumeros\bin\Debug\net10.0\05b-DoisNumeros.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05b-DoisNumeros\bin\Debug\net10.0\05b-DoisNumeros.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05b-DoisNumeros\bin\Debug\net10.0\05b-DoisNumeros.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05b-DoisNumeros\bin\Debug\net10.0\05b-DoisNumeros.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05b-DoisNumeros\obj\Debug\net10.0\05b-DoisNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05b-DoisNumeros\obj\Debug\net10.0\05b-DoisNumeros.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05b-DoisNumeros\obj\Debug\net10.0\05b-DoisNumeros.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05b-DoisNumeros\obj\Debug\net10.0\05b-DoisNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05b-DoisNumeros\obj\Debug\net10.0\05b-DoisNumeros.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05b-DoisNumeros\obj\Debug\net10.0\05b-DoisNumeros.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05b-DoisNumeros\obj\Debug\net10.0\refint\05b-DoisNumeros.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05b-DoisNumeros\obj\Debug\net10.0\05b-DoisNumeros.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05b-DoisNumeros\obj\Debug\net10.0\05b-DoisNumeros.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05b-DoisNumeros\obj\Debug\net10.0\ref\05b-DoisNumeros.dll

@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05a-NomeIdade\bin\Debug\net10.0\05a-NomeIdade.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05a-NomeIdade\bin\Debug\net10.0\05a-NomeIdade.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05a-NomeIdade\bin\Debug\net10.0\05a-NomeIdade.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05a-NomeIdade\bin\Debug\net10.0\05a-NomeIdade.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05a-NomeIdade\bin\Debug\net10.0\05a-NomeIdade.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05a-NomeIdade\obj\Debug\net10.0\05a-NomeIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05a-NomeIdade\obj\Debug\net10.0\05a-NomeIdade.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05a-NomeIdade\obj\Debug\net10.0\05a-NomeIdade.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05a-NomeIdade\obj\Debug\net10.0\05a-NomeIdade.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05a-NomeIdade\obj\Debug\net10.0\05a-NomeIdade.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05a-NomeIdade\obj\Debug\net10.0\05a-NomeIdade.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05a-NomeIdade\obj\Debug\net10.0\refint\05a-NomeIdade.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05a-NomeIdade\obj\Debug\net10.0\05a-NomeIdade.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05a-NomeIdade\obj\Debug\net10.0\05a-NomeIdade.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05a-NomeIdade\obj\Debug\net10.0\ref\05a-NomeIdade.dll

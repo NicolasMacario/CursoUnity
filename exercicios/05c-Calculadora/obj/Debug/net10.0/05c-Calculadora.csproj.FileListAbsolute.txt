@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05c-Calculadora\bin\Debug\net10.0\05c-Calculadora.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05c-Calculadora\bin\Debug\net10.0\05c-Calculadora.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05c-Calculadora\bin\Debug\net10.0\05c-Calculadora.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05c-Calculadora\bin\Debug\net10.0\05c-Calculadora.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05c-Calculadora\bin\Debug\net10.0\05c-Calculadora.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05c-Calculadora\obj\Debug\net10.0\05c-Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05c-Calculadora\obj\Debug\net10.0\05c-Calculadora.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05c-Calculadora\obj\Debug\net10.0\05c-Calculadora.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05c-Calculadora\obj\Debug\net10.0\05c-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05c-Calculadora\obj\Debug\net10.0\05c-Calculadora.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05c-Calculadora\obj\Debug\net10.0\05c-Calculadora.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05c-Calculadora\obj\Debug\net10.0\refint\05c-Calculadora.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05c-Calculadora\obj\Debug\net10.0\05c-Calculadora.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05c-Calculadora\obj\Debug\net10.0\05c-Calculadora.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05c-Calculadora\obj\Debug\net10.0\ref\05c-Calculadora.dll

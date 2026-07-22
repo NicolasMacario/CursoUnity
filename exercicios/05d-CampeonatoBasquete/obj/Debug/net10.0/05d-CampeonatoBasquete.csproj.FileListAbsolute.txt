@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05d-CampeonatoBasquete\bin\Debug\net10.0\05d-CampeonatoBasquete.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05d-CampeonatoBasquete\bin\Debug\net10.0\05d-CampeonatoBasquete.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05d-CampeonatoBasquete\bin\Debug\net10.0\05d-CampeonatoBasquete.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05d-CampeonatoBasquete\bin\Debug\net10.0\05d-CampeonatoBasquete.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05d-CampeonatoBasquete\bin\Debug\net10.0\05d-CampeonatoBasquete.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05d-CampeonatoBasquete\obj\Debug\net10.0\05d-CampeonatoBasquete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05d-CampeonatoBasquete\obj\Debug\net10.0\05d-CampeonatoBasquete.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05d-CampeonatoBasquete\obj\Debug\net10.0\05d-CampeonatoBasquete.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05d-CampeonatoBasquete\obj\Debug\net10.0\05d-CampeonatoBasquete.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05d-CampeonatoBasquete\obj\Debug\net10.0\05d-CampeonatoBasquete.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05d-CampeonatoBasquete\obj\Debug\net10.0\05d-CampeonatoBasquete.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05d-CampeonatoBasquete\obj\Debug\net10.0\refint\05d-CampeonatoBasquete.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05d-CampeonatoBasquete\obj\Debug\net10.0\05d-CampeonatoBasquete.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05d-CampeonatoBasquete\obj\Debug\net10.0\05d-CampeonatoBasquete.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\05d-CampeonatoBasquete\obj\Debug\net10.0\ref\05d-CampeonatoBasquete.dll

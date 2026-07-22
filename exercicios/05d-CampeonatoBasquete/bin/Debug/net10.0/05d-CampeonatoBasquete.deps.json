@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "05d-CampeonatoBasquete/1.0.0": {
+        "runtime": {
+          "05d-CampeonatoBasquete.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "05d-CampeonatoBasquete/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

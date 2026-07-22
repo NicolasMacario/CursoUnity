@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\05a-ImparPar\bin\Debug\net10.0\05a-ImparPar.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\05a-ImparPar\bin\Debug\net10.0\05a-ImparPar.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\05a-ImparPar\bin\Debug\net10.0\05a-ImparPar.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\05a-ImparPar\bin\Debug\net10.0\05a-ImparPar.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\05a-ImparPar\bin\Debug\net10.0\05a-ImparPar.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\05a-ImparPar\obj\Debug\net10.0\05a-ImparPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\05a-ImparPar\obj\Debug\net10.0\05a-ImparPar.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\05a-ImparPar\obj\Debug\net10.0\05a-ImparPar.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\05a-ImparPar\obj\Debug\net10.0\05a-ImparPar.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\05a-ImparPar\obj\Debug\net10.0\05a-ImparPar.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\05a-ImparPar\obj\Debug\net10.0\05a-ImparPar.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\05a-ImparPar\obj\Debug\net10.0\refint\05a-ImparPar.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\05a-ImparPar\obj\Debug\net10.0\05a-ImparPar.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\05a-ImparPar\obj\Debug\net10.0\05a-ImparPar.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\05a-ImparPar\obj\Debug\net10.0\ref\05a-ImparPar.dll

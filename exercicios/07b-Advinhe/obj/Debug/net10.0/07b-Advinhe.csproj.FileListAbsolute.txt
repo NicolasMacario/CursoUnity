@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07b-Advinhe\bin\Debug\net10.0\07b-Advinhe.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07b-Advinhe\bin\Debug\net10.0\07b-Advinhe.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07b-Advinhe\bin\Debug\net10.0\07b-Advinhe.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07b-Advinhe\bin\Debug\net10.0\07b-Advinhe.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07b-Advinhe\bin\Debug\net10.0\07b-Advinhe.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07b-Advinhe\obj\Debug\net10.0\07b-Advinhe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07b-Advinhe\obj\Debug\net10.0\07b-Advinhe.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07b-Advinhe\obj\Debug\net10.0\07b-Advinhe.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07b-Advinhe\obj\Debug\net10.0\07b-Advinhe.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07b-Advinhe\obj\Debug\net10.0\07b-Advinhe.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07b-Advinhe\obj\Debug\net10.0\07b-Advinhe.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07b-Advinhe\obj\Debug\net10.0\refint\07b-Advinhe.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07b-Advinhe\obj\Debug\net10.0\07b-Advinhe.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07b-Advinhe\obj\Debug\net10.0\07b-Advinhe.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07b-Advinhe\obj\Debug\net10.0\ref\07b-Advinhe.dll

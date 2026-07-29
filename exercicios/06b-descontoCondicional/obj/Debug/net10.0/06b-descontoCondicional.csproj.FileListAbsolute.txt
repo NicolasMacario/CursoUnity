@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06b-descontoCondicional\bin\Debug\net10.0\06b-descontoCondicional.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06b-descontoCondicional\bin\Debug\net10.0\06b-descontoCondicional.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06b-descontoCondicional\bin\Debug\net10.0\06b-descontoCondicional.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06b-descontoCondicional\bin\Debug\net10.0\06b-descontoCondicional.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06b-descontoCondicional\bin\Debug\net10.0\06b-descontoCondicional.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06b-descontoCondicional\obj\Debug\net10.0\06b-descontoCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06b-descontoCondicional\obj\Debug\net10.0\06b-descontoCondicional.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06b-descontoCondicional\obj\Debug\net10.0\06b-descontoCondicional.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06b-descontoCondicional\obj\Debug\net10.0\06b-descontoCondicional.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06b-descontoCondicional\obj\Debug\net10.0\06b-descontoCondicional.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06b-descontoCondicional\obj\Debug\net10.0\06b-descontoCondicional.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06b-descontoCondicional\obj\Debug\net10.0\refint\06b-descontoCondicional.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06b-descontoCondicional\obj\Debug\net10.0\06b-descontoCondicional.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06b-descontoCondicional\obj\Debug\net10.0\06b-descontoCondicional.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06b-descontoCondicional\obj\Debug\net10.0\ref\06b-descontoCondicional.dll

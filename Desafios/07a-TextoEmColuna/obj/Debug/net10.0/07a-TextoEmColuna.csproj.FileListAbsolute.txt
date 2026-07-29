@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07a-TextoEmColuna\bin\Debug\net10.0\07a-TextoEmColuna.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07a-TextoEmColuna\bin\Debug\net10.0\07a-TextoEmColuna.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07a-TextoEmColuna\bin\Debug\net10.0\07a-TextoEmColuna.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07a-TextoEmColuna\bin\Debug\net10.0\07a-TextoEmColuna.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07a-TextoEmColuna\bin\Debug\net10.0\07a-TextoEmColuna.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07a-TextoEmColuna\obj\Debug\net10.0\07a-TextoEmColuna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07a-TextoEmColuna\obj\Debug\net10.0\07a-TextoEmColuna.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07a-TextoEmColuna\obj\Debug\net10.0\07a-TextoEmColuna.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07a-TextoEmColuna\obj\Debug\net10.0\07a-TextoEmColuna.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07a-TextoEmColuna\obj\Debug\net10.0\07a-TextoEmColuna.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07a-TextoEmColuna\obj\Debug\net10.0\07a-TextoEmColuna.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07a-TextoEmColuna\obj\Debug\net10.0\refint\07a-TextoEmColuna.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07a-TextoEmColuna\obj\Debug\net10.0\07a-TextoEmColuna.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07a-TextoEmColuna\obj\Debug\net10.0\07a-TextoEmColuna.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07a-TextoEmColuna\obj\Debug\net10.0\ref\07a-TextoEmColuna.dll

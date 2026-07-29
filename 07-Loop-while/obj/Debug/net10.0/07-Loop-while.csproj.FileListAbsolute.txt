@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\07-Loop-while\bin\Debug\net10.0\07-Loop-while.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\07-Loop-while\bin\Debug\net10.0\07-Loop-while.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\07-Loop-while\bin\Debug\net10.0\07-Loop-while.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\07-Loop-while\bin\Debug\net10.0\07-Loop-while.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\07-Loop-while\bin\Debug\net10.0\07-Loop-while.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\07-Loop-while\obj\Debug\net10.0\07-Loop-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\07-Loop-while\obj\Debug\net10.0\07-Loop-while.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\07-Loop-while\obj\Debug\net10.0\07-Loop-while.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\07-Loop-while\obj\Debug\net10.0\07-Loop-while.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\07-Loop-while\obj\Debug\net10.0\07-Loop-while.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\07-Loop-while\obj\Debug\net10.0\07-Loop-while.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\07-Loop-while\obj\Debug\net10.0\refint\07-Loop-while.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\07-Loop-while\obj\Debug\net10.0\07-Loop-while.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\07-Loop-while\obj\Debug\net10.0\07-Loop-while.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\07-Loop-while\obj\Debug\net10.0\ref\07-Loop-while.dll

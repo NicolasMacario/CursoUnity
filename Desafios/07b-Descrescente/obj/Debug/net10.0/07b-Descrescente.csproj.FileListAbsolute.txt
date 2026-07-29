@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07b-Descrescente\bin\Debug\net10.0\07b-Descrescente.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07b-Descrescente\bin\Debug\net10.0\07b-Descrescente.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07b-Descrescente\bin\Debug\net10.0\07b-Descrescente.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07b-Descrescente\bin\Debug\net10.0\07b-Descrescente.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07b-Descrescente\bin\Debug\net10.0\07b-Descrescente.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07b-Descrescente\obj\Debug\net10.0\07b-Descrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07b-Descrescente\obj\Debug\net10.0\07b-Descrescente.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07b-Descrescente\obj\Debug\net10.0\07b-Descrescente.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07b-Descrescente\obj\Debug\net10.0\07b-Descrescente.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07b-Descrescente\obj\Debug\net10.0\07b-Descrescente.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07b-Descrescente\obj\Debug\net10.0\07b-Descrescente.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07b-Descrescente\obj\Debug\net10.0\refint\07b-Descrescente.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07b-Descrescente\obj\Debug\net10.0\07b-Descrescente.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07b-Descrescente\obj\Debug\net10.0\07b-Descrescente.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\07b-Descrescente\obj\Debug\net10.0\ref\07b-Descrescente.dll

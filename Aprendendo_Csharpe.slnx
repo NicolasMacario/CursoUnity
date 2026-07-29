@@ -1,10 +1,16 @@
 <Solution>
+  <Folder Name="/07-loop-for/">
+    <Project Path="07-loop-for/07-Loop-for.csproj" />
+  </Folder>
   <Folder Name="/Desafios/">
     <Project Path="Desafios/02a-RestoDivisao/02a-RestoDivisao.csproj" />
     <Project Path="Desafios/02b-Equacao/02b-Equacao.csproj" />
     <Project Path="Desafios/03a-DoisParagrafos/03a-DoisParagrafos.csproj" />
     <Project Path="Desafios/03b-String-Lenght/03b-String-Lenght.csproj" />
     <Project Path="Desafios/05a-ImparPar/05a-ImparPar.csproj" />
+    <Project Path="Desafios/06a-IMC/06a-IMC.csproj" />
+    <Project Path="Desafios/07a-TextoEmColuna/07a-TextoEmColuna.csproj" />
+    <Project Path="Desafios/07b-Descrescente/07b-Descrescente.csproj" />
     <Project Path="Desafios/5b-JogoNovel/5b-JogoNovel.csproj" />
   </Folder>
   <Folder Name="/exercicios/">
@@ -20,6 +26,14 @@
     <Project Path="exercicios/05b-DoisNumeros/05b-DoisNumeros.csproj" />
     <Project Path="exercicios/05c-Calculadora/05c-Calculadora.csproj" />
     <Project Path="exercicios/05d-CampeonatoBasquete/05d-CampeonatoBasquete.csproj" />
+    <Project Path="exercicios/06a-3NumerosMaior/06a-3NumerosMaior.csproj" />
+    <Project Path="exercicios/06b-descontoCondicional/06b-descontoCondicional.csproj" />
+    <Project Path="exercicios/06c-atendimentoPrioritario/06c-atendimentoPrioritario.csproj" />
+    <Project Path="exercicios/06d-TorneioCorrida/06d-TorneioCorrida.csproj" />
+    <Project Path="exercicios/07a-tabuada/07a-tabuada.csproj" />
+    <Project Path="exercicios/07b-Advinhe/07b-Advinhe.csproj" />
+    <Project Path="exercicios/07c-Parcelas/07c-Parcelas.csproj" />
+    <Project Path="exercicios/07d-10Alunos/07d-10Alunos.csproj" />
   </Folder>
   <Folder Name="/exercicios/02b-Tabuada/">
     <Project Path="exercicios/02b-Tabuada/02b-tabuada.csproj" />
@@ -33,4 +47,9 @@
   <Project Path="03-Strings/03-Strings.csproj" />
   <Project Path="04-inputOutput/04-inputOutput.csproj" />
   <Project Path="05-FluxoDeControle/05-FluxoDeControle.csproj" />
+  <Project Path="06-OperadoresLogicos/06-OperadoresLogicos.csproj" />
+  <Project Path="07-Break/07-Break.csproj" />
+  <Project Path="07-Loop-while/07-Loop-while.csproj" />
+  <Project Path="07d-continue/07d-continue.csproj" />
+  <Project Path="08-Classes/08-Classes.csproj" />
 </Solution>

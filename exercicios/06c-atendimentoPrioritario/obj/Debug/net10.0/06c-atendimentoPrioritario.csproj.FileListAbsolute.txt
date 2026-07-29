@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06c-atendimentoPrioritario\bin\Debug\net10.0\06c-atendimentoPrioritario.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06c-atendimentoPrioritario\bin\Debug\net10.0\06c-atendimentoPrioritario.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06c-atendimentoPrioritario\bin\Debug\net10.0\06c-atendimentoPrioritario.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06c-atendimentoPrioritario\bin\Debug\net10.0\06c-atendimentoPrioritario.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06c-atendimentoPrioritario\bin\Debug\net10.0\06c-atendimentoPrioritario.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06c-atendimentoPrioritario\obj\Debug\net10.0\06c-atendimentoPrioritario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06c-atendimentoPrioritario\obj\Debug\net10.0\06c-atendimentoPrioritario.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06c-atendimentoPrioritario\obj\Debug\net10.0\06c-atendimentoPrioritario.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06c-atendimentoPrioritario\obj\Debug\net10.0\06c-atendimentoPrioritario.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06c-atendimentoPrioritario\obj\Debug\net10.0\06c-atendimentoPrioritario.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06c-atendimentoPrioritario\obj\Debug\net10.0\06c-atendimentoPrioritario.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06c-atendimentoPrioritario\obj\Debug\net10.0\refint\06c-atendimentoPrioritario.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06c-atendimentoPrioritario\obj\Debug\net10.0\06c-atendimentoPrioritario.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06c-atendimentoPrioritario\obj\Debug\net10.0\06c-atendimentoPrioritario.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06c-atendimentoPrioritario\obj\Debug\net10.0\ref\06c-atendimentoPrioritario.dll

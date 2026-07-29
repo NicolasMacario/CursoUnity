@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\5b-JogoNovel\bin\Debug\net10.0\5b-JogoNovel.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\5b-JogoNovel\bin\Debug\net10.0\5b-JogoNovel.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\5b-JogoNovel\bin\Debug\net10.0\5b-JogoNovel.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\5b-JogoNovel\bin\Debug\net10.0\5b-JogoNovel.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\5b-JogoNovel\bin\Debug\net10.0\5b-JogoNovel.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\5b-JogoNovel\obj\Debug\net10.0\5b-JogoNovel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\5b-JogoNovel\obj\Debug\net10.0\5b-JogoNovel.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\5b-JogoNovel\obj\Debug\net10.0\5b-JogoNovel.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\5b-JogoNovel\obj\Debug\net10.0\5b-JogoNovel.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\5b-JogoNovel\obj\Debug\net10.0\5b-JogoNovel.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\5b-JogoNovel\obj\Debug\net10.0\5b-JogoNovel.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\5b-JogoNovel\obj\Debug\net10.0\refint\5b-JogoNovel.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\5b-JogoNovel\obj\Debug\net10.0\5b-JogoNovel.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\5b-JogoNovel\obj\Debug\net10.0\5b-JogoNovel.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\5b-JogoNovel\obj\Debug\net10.0\ref\5b-JogoNovel.dll

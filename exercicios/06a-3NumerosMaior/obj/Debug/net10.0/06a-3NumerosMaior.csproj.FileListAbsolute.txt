@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06a-3NumerosMaior\bin\Debug\net10.0\06a-3NumerosMaior.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06a-3NumerosMaior\bin\Debug\net10.0\06a-3NumerosMaior.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06a-3NumerosMaior\bin\Debug\net10.0\06a-3NumerosMaior.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06a-3NumerosMaior\bin\Debug\net10.0\06a-3NumerosMaior.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06a-3NumerosMaior\bin\Debug\net10.0\06a-3NumerosMaior.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06a-3NumerosMaior\obj\Debug\net10.0\06a-3NumerosMaior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06a-3NumerosMaior\obj\Debug\net10.0\06a-3NumerosMaior.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06a-3NumerosMaior\obj\Debug\net10.0\06a-3NumerosMaior.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06a-3NumerosMaior\obj\Debug\net10.0\06a-3NumerosMaior.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06a-3NumerosMaior\obj\Debug\net10.0\06a-3NumerosMaior.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06a-3NumerosMaior\obj\Debug\net10.0\06a-3NumerosMaior.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06a-3NumerosMaior\obj\Debug\net10.0\refint\06a-3NumerosMaior.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06a-3NumerosMaior\obj\Debug\net10.0\06a-3NumerosMaior.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06a-3NumerosMaior\obj\Debug\net10.0\06a-3NumerosMaior.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06a-3NumerosMaior\obj\Debug\net10.0\ref\06a-3NumerosMaior.dll

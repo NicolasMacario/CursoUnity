@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\06-OperadoresLogicos\bin\Debug\net10.0\06-OperadoresLogicos.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\06-OperadoresLogicos\bin\Debug\net10.0\06-OperadoresLogicos.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\06-OperadoresLogicos\bin\Debug\net10.0\06-OperadoresLogicos.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\06-OperadoresLogicos\bin\Debug\net10.0\06-OperadoresLogicos.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\06-OperadoresLogicos\bin\Debug\net10.0\06-OperadoresLogicos.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\06-OperadoresLogicos\obj\Debug\net10.0\06-OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\06-OperadoresLogicos\obj\Debug\net10.0\06-OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\06-OperadoresLogicos\obj\Debug\net10.0\06-OperadoresLogicos.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\06-OperadoresLogicos\obj\Debug\net10.0\06-OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\06-OperadoresLogicos\obj\Debug\net10.0\06-OperadoresLogicos.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\06-OperadoresLogicos\obj\Debug\net10.0\06-OperadoresLogicos.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\06-OperadoresLogicos\obj\Debug\net10.0\refint\06-OperadoresLogicos.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\06-OperadoresLogicos\obj\Debug\net10.0\06-OperadoresLogicos.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\06-OperadoresLogicos\obj\Debug\net10.0\06-OperadoresLogicos.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\06-OperadoresLogicos\obj\Debug\net10.0\ref\06-OperadoresLogicos.dll

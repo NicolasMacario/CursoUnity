@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\06a-IMC\bin\Debug\net10.0\06a-IMC.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\06a-IMC\bin\Debug\net10.0\06a-IMC.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\06a-IMC\bin\Debug\net10.0\06a-IMC.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\06a-IMC\bin\Debug\net10.0\06a-IMC.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\06a-IMC\bin\Debug\net10.0\06a-IMC.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\06a-IMC\obj\Debug\net10.0\06a-IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\06a-IMC\obj\Debug\net10.0\06a-IMC.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\06a-IMC\obj\Debug\net10.0\06a-IMC.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\06a-IMC\obj\Debug\net10.0\06a-IMC.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\06a-IMC\obj\Debug\net10.0\06a-IMC.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\06a-IMC\obj\Debug\net10.0\06a-IMC.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\06a-IMC\obj\Debug\net10.0\refint\06a-IMC.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\06a-IMC\obj\Debug\net10.0\06a-IMC.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\06a-IMC\obj\Debug\net10.0\06a-IMC.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\06a-IMC\obj\Debug\net10.0\ref\06a-IMC.dll

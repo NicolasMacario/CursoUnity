@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07c-Parcelas\bin\Debug\net10.0\07c-Parcelas.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07c-Parcelas\bin\Debug\net10.0\07c-Parcelas.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07c-Parcelas\bin\Debug\net10.0\07c-Parcelas.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07c-Parcelas\bin\Debug\net10.0\07c-Parcelas.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07c-Parcelas\bin\Debug\net10.0\07c-Parcelas.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07c-Parcelas\obj\Debug\net10.0\07c-Parcelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07c-Parcelas\obj\Debug\net10.0\07c-Parcelas.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07c-Parcelas\obj\Debug\net10.0\07c-Parcelas.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07c-Parcelas\obj\Debug\net10.0\07c-Parcelas.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07c-Parcelas\obj\Debug\net10.0\07c-Parcelas.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07c-Parcelas\obj\Debug\net10.0\07c-Parcelas.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07c-Parcelas\obj\Debug\net10.0\refint\07c-Parcelas.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07c-Parcelas\obj\Debug\net10.0\07c-Parcelas.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07c-Parcelas\obj\Debug\net10.0\07c-Parcelas.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\07c-Parcelas\obj\Debug\net10.0\ref\07c-Parcelas.dll

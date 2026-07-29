@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06d-TorneioCorrida\bin\Debug\net10.0\06d-TorneioCorrida.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06d-TorneioCorrida\bin\Debug\net10.0\06d-TorneioCorrida.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06d-TorneioCorrida\bin\Debug\net10.0\06d-TorneioCorrida.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06d-TorneioCorrida\bin\Debug\net10.0\06d-TorneioCorrida.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06d-TorneioCorrida\bin\Debug\net10.0\06d-TorneioCorrida.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06d-TorneioCorrida\obj\Debug\net10.0\06d-TorneioCorrida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06d-TorneioCorrida\obj\Debug\net10.0\06d-TorneioCorrida.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06d-TorneioCorrida\obj\Debug\net10.0\06d-TorneioCorrida.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06d-TorneioCorrida\obj\Debug\net10.0\06d-TorneioCorrida.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06d-TorneioCorrida\obj\Debug\net10.0\06d-TorneioCorrida.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06d-TorneioCorrida\obj\Debug\net10.0\06d-TorneioCorrida.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06d-TorneioCorrida\obj\Debug\net10.0\refint\06d-TorneioCorrida.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06d-TorneioCorrida\obj\Debug\net10.0\06d-TorneioCorrida.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06d-TorneioCorrida\obj\Debug\net10.0\06d-TorneioCorrida.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\06d-TorneioCorrida\obj\Debug\net10.0\ref\06d-TorneioCorrida.dll

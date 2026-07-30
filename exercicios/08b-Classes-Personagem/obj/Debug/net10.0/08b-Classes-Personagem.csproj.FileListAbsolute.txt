@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08b-Classes-Personagem\bin\Debug\net10.0\08b-Classes-Personagem.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08b-Classes-Personagem\bin\Debug\net10.0\08b-Classes-Personagem.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08b-Classes-Personagem\bin\Debug\net10.0\08b-Classes-Personagem.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08b-Classes-Personagem\bin\Debug\net10.0\08b-Classes-Personagem.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08b-Classes-Personagem\bin\Debug\net10.0\08b-Classes-Personagem.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08b-Classes-Personagem\obj\Debug\net10.0\08b-Classes-Personagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08b-Classes-Personagem\obj\Debug\net10.0\08b-Classes-Personagem.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08b-Classes-Personagem\obj\Debug\net10.0\08b-Classes-Personagem.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08b-Classes-Personagem\obj\Debug\net10.0\08b-Classes-Personagem.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08b-Classes-Personagem\obj\Debug\net10.0\08b-Classes-Personagem.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08b-Classes-Personagem\obj\Debug\net10.0\08b-Classes-Personagem.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08b-Classes-Personagem\obj\Debug\net10.0\refint\08b-Classes-Personagem.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08b-Classes-Personagem\obj\Debug\net10.0\08b-Classes-Personagem.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08b-Classes-Personagem\obj\Debug\net10.0\08b-Classes-Personagem.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08b-Classes-Personagem\obj\Debug\net10.0\ref\08b-Classes-Personagem.dll

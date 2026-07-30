@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08c-Classes-FormasGeometricas\bin\Debug\net10.0\08c-Classes-FormasGeometricas.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08c-Classes-FormasGeometricas\bin\Debug\net10.0\08c-Classes-FormasGeometricas.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08c-Classes-FormasGeometricas\bin\Debug\net10.0\08c-Classes-FormasGeometricas.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08c-Classes-FormasGeometricas\bin\Debug\net10.0\08c-Classes-FormasGeometricas.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08c-Classes-FormasGeometricas\bin\Debug\net10.0\08c-Classes-FormasGeometricas.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08c-Classes-FormasGeometricas\obj\Debug\net10.0\08c-Classes-FormasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08c-Classes-FormasGeometricas\obj\Debug\net10.0\08c-Classes-FormasGeometricas.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08c-Classes-FormasGeometricas\obj\Debug\net10.0\08c-Classes-FormasGeometricas.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08c-Classes-FormasGeometricas\obj\Debug\net10.0\08c-Classes-FormasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08c-Classes-FormasGeometricas\obj\Debug\net10.0\08c-Classes-FormasGeometricas.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08c-Classes-FormasGeometricas\obj\Debug\net10.0\08c-Classes-FormasGeometricas.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08c-Classes-FormasGeometricas\obj\Debug\net10.0\refint\08c-Classes-FormasGeometricas.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08c-Classes-FormasGeometricas\obj\Debug\net10.0\08c-Classes-FormasGeometricas.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08c-Classes-FormasGeometricas\obj\Debug\net10.0\08c-Classes-FormasGeometricas.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08c-Classes-FormasGeometricas\obj\Debug\net10.0\ref\08c-Classes-FormasGeometricas.dll

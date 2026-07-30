@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08d-Classes-ContaBancaria\bin\Debug\net10.0\08d-Classes-ContaBancaria.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08d-Classes-ContaBancaria\bin\Debug\net10.0\08d-Classes-ContaBancaria.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08d-Classes-ContaBancaria\bin\Debug\net10.0\08d-Classes-ContaBancaria.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08d-Classes-ContaBancaria\bin\Debug\net10.0\08d-Classes-ContaBancaria.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08d-Classes-ContaBancaria\bin\Debug\net10.0\08d-Classes-ContaBancaria.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08d-Classes-ContaBancaria\obj\Debug\net10.0\08d-Classes-ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08d-Classes-ContaBancaria\obj\Debug\net10.0\08d-Classes-ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08d-Classes-ContaBancaria\obj\Debug\net10.0\08d-Classes-ContaBancaria.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08d-Classes-ContaBancaria\obj\Debug\net10.0\08d-Classes-ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08d-Classes-ContaBancaria\obj\Debug\net10.0\08d-Classes-ContaBancaria.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08d-Classes-ContaBancaria\obj\Debug\net10.0\08d-Classes-ContaBancaria.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08d-Classes-ContaBancaria\obj\Debug\net10.0\refint\08d-Classes-ContaBancaria.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08d-Classes-ContaBancaria\obj\Debug\net10.0\08d-Classes-ContaBancaria.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08d-Classes-ContaBancaria\obj\Debug\net10.0\08d-Classes-ContaBancaria.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08d-Classes-ContaBancaria\obj\Debug\net10.0\ref\08d-Classes-ContaBancaria.dll

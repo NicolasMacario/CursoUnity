@@ -11,6 +11,7 @@
     <Project Path="Desafios/06a-IMC/06a-IMC.csproj" />
     <Project Path="Desafios/07a-TextoEmColuna/07a-TextoEmColuna.csproj" />
     <Project Path="Desafios/07b-Descrescente/07b-Descrescente.csproj" />
+    <Project Path="Desafios/08a-Classes-PartidaEntreDois/08a-Classes-PartidaEntreDois.csproj" />
     <Project Path="Desafios/5b-JogoNovel/5b-JogoNovel.csproj" />
   </Folder>
   <Folder Name="/exercicios/">
@@ -34,6 +35,10 @@
     <Project Path="exercicios/07b-Advinhe/07b-Advinhe.csproj" />
     <Project Path="exercicios/07c-Parcelas/07c-Parcelas.csproj" />
     <Project Path="exercicios/07d-10Alunos/07d-10Alunos.csproj" />
+    <Project Path="exercicios/08a-Classes-Operacoes/08a-Classes-Operacoes.csproj" />
+    <Project Path="exercicios/08b-Classes-Personagem/08b-Classes-Personagem.csproj" />
+    <Project Path="exercicios/08c-Classes-FormasGeometricas/08c-Classes-FormasGeometricas.csproj" />
+    <Project Path="exercicios/08d-Classes-ContaBancaria/08d-Classes-ContaBancaria.csproj" />
   </Folder>
   <Folder Name="/exercicios/02b-Tabuada/">
     <Project Path="exercicios/02b-Tabuada/02b-tabuada.csproj" />

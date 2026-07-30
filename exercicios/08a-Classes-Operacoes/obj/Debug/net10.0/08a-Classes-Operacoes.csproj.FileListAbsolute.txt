@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08a-Classes-Operacoes\bin\Debug\net10.0\08a-Classes-Operacoes.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08a-Classes-Operacoes\bin\Debug\net10.0\08a-Classes-Operacoes.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08a-Classes-Operacoes\bin\Debug\net10.0\08a-Classes-Operacoes.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08a-Classes-Operacoes\bin\Debug\net10.0\08a-Classes-Operacoes.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08a-Classes-Operacoes\bin\Debug\net10.0\08a-Classes-Operacoes.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08a-Classes-Operacoes\obj\Debug\net10.0\08a-Classes-Operacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08a-Classes-Operacoes\obj\Debug\net10.0\08a-Classes-Operacoes.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08a-Classes-Operacoes\obj\Debug\net10.0\08a-Classes-Operacoes.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08a-Classes-Operacoes\obj\Debug\net10.0\08a-Classes-Operacoes.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08a-Classes-Operacoes\obj\Debug\net10.0\08a-Classes-Operacoes.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08a-Classes-Operacoes\obj\Debug\net10.0\08a-Classes-Operacoes.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08a-Classes-Operacoes\obj\Debug\net10.0\refint\08a-Classes-Operacoes.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08a-Classes-Operacoes\obj\Debug\net10.0\08a-Classes-Operacoes.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08a-Classes-Operacoes\obj\Debug\net10.0\08a-Classes-Operacoes.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\exercicios\08a-Classes-Operacoes\obj\Debug\net10.0\ref\08a-Classes-Operacoes.dll

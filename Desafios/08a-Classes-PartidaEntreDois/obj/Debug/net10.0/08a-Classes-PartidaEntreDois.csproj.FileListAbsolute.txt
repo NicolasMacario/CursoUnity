@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\08a-Classes-PartidaEntreDois\bin\Debug\net10.0\08a-Classes-PartidaEntreDois.exe
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\08a-Classes-PartidaEntreDois\bin\Debug\net10.0\08a-Classes-PartidaEntreDois.deps.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\08a-Classes-PartidaEntreDois\bin\Debug\net10.0\08a-Classes-PartidaEntreDois.runtimeconfig.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\08a-Classes-PartidaEntreDois\bin\Debug\net10.0\08a-Classes-PartidaEntreDois.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\08a-Classes-PartidaEntreDois\bin\Debug\net10.0\08a-Classes-PartidaEntreDois.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\08a-Classes-PartidaEntreDois\obj\Debug\net10.0\08a-Classes-PartidaEntreDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\08a-Classes-PartidaEntreDois\obj\Debug\net10.0\08a-Classes-PartidaEntreDois.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\08a-Classes-PartidaEntreDois\obj\Debug\net10.0\08a-Classes-PartidaEntreDois.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\08a-Classes-PartidaEntreDois\obj\Debug\net10.0\08a-Classes-PartidaEntreDois.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\08a-Classes-PartidaEntreDois\obj\Debug\net10.0\08a-Classes-PartidaEntreDois.sourcelink.json
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\08a-Classes-PartidaEntreDois\obj\Debug\net10.0\08a-Classes-PartidaEntreDois.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\08a-Classes-PartidaEntreDois\obj\Debug\net10.0\refint\08a-Classes-PartidaEntreDois.dll
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\08a-Classes-PartidaEntreDois\obj\Debug\net10.0\08a-Classes-PartidaEntreDois.pdb
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\08a-Classes-PartidaEntreDois\obj\Debug\net10.0\08a-Classes-PartidaEntreDois.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Curso_Unity6\Aprendendo_Csharpe\Desafios\08a-Classes-PartidaEntreDois\obj\Debug\net10.0\ref\08a-Classes-PartidaEntreDois.dll
